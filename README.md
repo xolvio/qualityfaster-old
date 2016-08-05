@@ -32,9 +32,14 @@ npm run meteor
 
 Once that has started:
 
-Run Chimp in Terminal 2:
+Run Chimp in Terminal 2: (for OSX/Linux)
 ```bash
 npm run chimp
+```
+
+Run Chimp in Terminal 2: (for Windows)
+```bash
+.scripts/run-chimp.bat
 ```
 
 Do BDD with your team!
