@@ -23,14 +23,16 @@ Start Wallaby (use the ``.wallaby.js` configuration)
 
 open two terminals:
 
-Terminal 1:
+Run Meteor in Terminal 1:
 ```bash
 npm run meteor
 ```
 
-Terminal 2:
+Once that has started:
+
+Run Chimp in Terminal 2:
 ```bash
-npm run meteor
+npm run chimp
 ```
 
 Do BDD with your team!
