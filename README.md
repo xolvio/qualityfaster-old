@@ -6,7 +6,8 @@ Install Meteor:
 curl https://install.meteor.com/ | sh
 ```
 
-Install Node
+Install Node v4.3 
+*You might want to use [NVM](https://github.com/creationix/nvm#install-script) to do this*
 ```bash
 nvm install v4.3
 nvm use v4.3
