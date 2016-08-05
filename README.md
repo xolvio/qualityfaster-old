@@ -7,12 +7,16 @@ curl https://install.meteor.com/ | sh
 ```
 
 Install Node v4.3 
-*You might want to use [NVM](https://github.com/creationix/nvm#install-script) to do this*
+*You might want to use [NVM](https://github.com/creationix/nvm#install-script)*
 ```bash
 nvm install v4.3
 nvm use v4.3
 npm install
 ```
+
+#### Using Windows?
+[Meteor installer](https://install.meteor.com/windows)
+[NVM installer](https://github.com/coreybutler/nvm-windows#node-version-manager-nvm-for-windows)
 
 ### Run
 Start Wallaby (use the ``.wallaby.js` configuration)
