@@ -15,8 +15,8 @@ npm install
 ```
 
 #### Using Windows?
-[Meteor installer](https://install.meteor.com/windows)
-[NVM installer](https://github.com/coreybutler/nvm-windows#node-version-manager-nvm-for-windows)
+* [Meteor installer](https://install.meteor.com/windows)
+* [NVM installer](https://github.com/coreybutler/nvm-windows#node-version-manager-nvm-for-windows)
 
 ### Run
 Start Wallaby (use the ``.wallaby.js` configuration)
