@@ -1,0 +1,25 @@
+{
+  "private": true,
+  "devDependencies": {
+    "babel": "^4.3.0",
+    "babel-eslint": "^6.1.2",
+    "babel-preset-es2015-without-strict": "0.0.2",
+    "chimp": "^0.38.0",
+    "enzyme": "^2.3.0",
+    "expect": "*",
+    "lodash": "^4.14.1",
+    "mocha": "^2.4.5",
+    "proxyquire": "^1.7.9",
+    "react": "^15.3.0",
+    "react-addons-test-utils": "^15.3.0",
+    "react-dom": "^15.0.2",
+    "react-shallow-testutils": "^2.0.0",
+    "test-runner-config": "^0.5.0",
+    "testdom": "2.0.0",
+    "underscore": "^1.8.3"
+  },
+  "scripts": {
+    "meteor": "cd src && meteor",
+    "chimp": ".scripts/start-chimp.sh"
+  }
+}
