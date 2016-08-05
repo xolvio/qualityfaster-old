@@ -6,6 +6,8 @@ Install Meteor:
 curl https://install.meteor.com/ | sh
 ```
 
+Install Java 8 **JDK** [from here](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) (Must be the JDK, not the JRE)
+
 Install Node v4.3 
 *You might want to use [NVM](https://github.com/creationix/nvm#install-script)*
 ```bash
