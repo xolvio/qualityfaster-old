@@ -21,7 +21,7 @@ npm install
 * [NVM installer](https://github.com/coreybutler/nvm-windows#node-version-manager-nvm-for-windows)
 
 ### Run
-Start Wallaby (use the ``.wallaby.js` configuration)
+Start Wallaby (use the `.wallaby.js` configuration)
 
 open two terminals:
 
