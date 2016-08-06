@@ -40,7 +40,7 @@ npm run chimp
 Run Chimp in Terminal 2: (for Windows)
 ```bash
 npm instal -g chimp
-.scripts/run-chimp.bat
+.scripts\run-chimp.bat
 ```
 
 Do BDD with your team!
