@@ -1,1 +1,1 @@
-./node_modules/.bin/chimp --path=tests/specifications --domainSteps=tests/step_definitions/domain --criticalSteps=tests/step_definitions/critical --watchSource=tests --singleSnippetPerFile=1 --no-source --watch --ddp=http://localhost:3000
+chimp --path=tests/specifications --domainSteps=tests/step_definitions/domain --criticalSteps=tests/step_definitions/critical --watchSource=tests --singleSnippetPerFile=1 --no-source --watch --ddp=http://localhost:3000
